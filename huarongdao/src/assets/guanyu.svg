@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="12" fill="#123b22"/>
+  <circle cx="60" cy="40" r="22" fill="#f2d6a6" stroke="#0d2416" stroke-width="3"/>
+  <path d="M35 50 Q60 65 85 50 Q80 35 60 32 Q40 35 35 50" fill="#1c3b28"/>
+  <rect x="30" y="70" width="60" height="35" rx="8" fill="#1f4a34" stroke="#0d2416" stroke-width="3"/>
+  <path d="M30 88 H90" stroke="#7fd1a6" stroke-width="4"/>
+  <text x="60" y="112" text-anchor="middle" font-size="14" fill="#daf5e6">关羽</text>
+</svg>

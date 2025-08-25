@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500">
+  <defs>
+    <linearGradient id="paper" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f4ecd8"/>
+      <stop offset="100%" stop-color="#e9dfc6"/>
+    </linearGradient>
+    <pattern id="grid" width="80" height="100" patternUnits="userSpaceOnUse">
+      <rect width="80" height="100" fill="none" stroke="#c7b89a" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="500" fill="url(#paper)"/>
+  <rect x="40" y="40" width="320" height="420" fill="url(#grid)" stroke="#8b6f47" stroke-width="6"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 180">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2d1f12"/>
+      <stop offset="100%" stop-color="#4a3322"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="180" rx="12" fill="url(#bg)"/>
+  <g>
+    <circle cx="60" cy="55" r="28" fill="#f2d6a6" stroke="#1a120a" stroke-width="3"/>
+    <path d="M25 65 Q60 85 95 65 Q90 45 60 40 Q30 45 25 65" fill="#1c1c1c"/>
+    <rect x="32" y="95" width="56" height="60" rx="8" fill="#1f2b3a" stroke="#0e1822" stroke-width="3"/>
+    <path d="M32 120 H88" stroke="#6fa8dc" stroke-width="4"/>
+    <path d="M60 95 V155" stroke="#6fa8dc" stroke-width="4"/>
+  </g>
+  <text x="60" y="172" text-anchor="middle" font-size="14" fill="#f5e6cc">曹操</text>
+</svg>
